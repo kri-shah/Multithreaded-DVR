@@ -1,3 +1,6 @@
+//starter code provided by Prof. Wei Wei
+//Developed a dynamic epidemic model using C to simulate the spread of a contagious disease by creating a hash table implemented as an array of linked lists 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
