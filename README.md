@@ -3,4 +3,3 @@ Project Description:
 
 bellman_(honors_proj) - For this honors project, I constructed a Distance Vector Routing (DVR) Protocol based on the Bellman-Ford algorithm, a "shortest path" approach for navigating networks of routers. This protocol dynamically adjusts to changing costs between nodes, simulating real-world scenarios where routers might encounter damage or updates. Project is a simulation of 5 routers, utilizing mutexes and multithreading. 
 
-epidemic.c - Developed a dynamic epidemic model using C to simulate the spread of a contagious disease by creating a hash table implemented as an array of linked lists. 
